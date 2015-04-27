@@ -1,0 +1,14 @@
+{
+  "author": "Coder Factory",
+  "name": "coder-factory-html-starter",
+  "description": "The html starter for week 4 day 1.",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.4.1",
+    "grunt-contrib-copy": "^0.4.1",
+    "grunt-contrib-watch": "^0.4.4",
+    "grunt-html": "^4.0.3"
+  }
+}
